@@ -1,5 +1,7 @@
 package com.efimchick.ifmo.collections;
 
-class SortedByAbsoluteValueIntegerSet {
+import java.util.HashSet;
+
+class SortedByAbsoluteValueIntegerSet extends HashSet {
 
 }
